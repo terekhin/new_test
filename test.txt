@@ -17,3 +17,6 @@ Da imenno tak
 
 “ут тест
 :) 
+
+#content {}
+#header {}
